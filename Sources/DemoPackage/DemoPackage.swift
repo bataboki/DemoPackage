@@ -1,3 +1,6 @@
-struct DemoPackage {
-    var text = "Hello, World!"
+import UIKit
+
+@objc public class DemoViewController:UIViewController
+{
+    
 }
