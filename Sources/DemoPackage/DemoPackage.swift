@@ -1,6 +1,6 @@
 import UIKit
 
-@objc public class DemoViewController:UIViewController
+@objc open class DemoViewController:UIViewController
 {
     
 }
